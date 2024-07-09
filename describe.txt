@@ -1,0 +1,29 @@
+{
+  "id": 3,
+  "significant": true,
+  "outdated": false,
+  "minVersion": -1,
+  "maxVersion": -1,
+  "specificLang": [],
+  "title": [
+    {
+      "lang": "en",
+      "text": "服务器注意事项"
+    },
+    {
+      "lang": "zh_CN",
+      "text": "服务器注意事项"
+    }
+  ],
+  "date": "2024.04.02",
+  "content": [
+    {
+      "lang": "en",
+      "text": "???"
+    },
+    {
+      "lang": "zh_CN",
+      "text": "服务器必须使用皮肤站登录,因1.16离线账号无法使用聊天功能导致无法注册服务器"
+    }
+  ]
+}
