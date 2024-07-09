@@ -1,1 +1,1 @@
-# game-_resources
+# danglong_server
